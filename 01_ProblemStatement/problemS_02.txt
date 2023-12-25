@@ -1,0 +1,11 @@
+#2 Problem Statement ==>
+
+Bollinger Bands
+
+1) Standard Deviation => std()
+
+2) Upper Bollinger Band => SMA (50) + (STD * 2)
+
+3) Lower Bollinger Band => SMA (50) - (STD * 2)
+
+Plot it...

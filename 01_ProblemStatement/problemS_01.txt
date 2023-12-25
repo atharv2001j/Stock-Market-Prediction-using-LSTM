@@ -1,0 +1,53 @@
+#1 Problem Statement ==>
+
+Calculate an average of the last 10 values and determine whether the slope is rising or falling.
+
+part 1: 
+2 variables 
+
+length
+ohlc choice
+
+part2: 1 variable
+range for slope
+
+
+
+
+
+#2 Problem Statement ==>
+
+TO FIND WHETHER MOVING AVG IS RISING OR FALLING!
+
+how, pehele candle se greater hai kya 
+or lesser 
+
+user se input -- for what record number
+for how many candles ( eg.  for last 5 candles it should be rising )
+
+if 
+
+rm ( record number ka ma) > rm-1
+&&
+rm-1 > rm-2
+&&
+rm-2 > rm-3
+
+then
+
+rising
+
+if 
+
+<
+<
+<
+<
+
+then
+
+falling
+
+
+
+else sideways
